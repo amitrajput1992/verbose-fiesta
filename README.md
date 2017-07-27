@@ -11,3 +11,8 @@ https://stackoverflow.com/questions/43788186/how-do-i-rotate-a-3d-model-in-a-fra
 aframe animations 
 ---
 https://blog.prototypr.io/learning-a-frame-how-to-do-animations-2aac1ae461da
+
+---
+rotating objects relative to camera 
+---
+https://github.com/facebook/react-vr/issues/262
